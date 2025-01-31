@@ -1,0 +1,37 @@
+# Arquivos de compilação
+*.exe
+*.dll
+*.obj
+*.pdb
+*.cache
+*.suo
+*.user
+*.sln.docstates
+
+# Pastas de compilação
+bin/
+obj/
+*.nuget.g.props
+*.nuget.g.targets
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+*.swp
+*~$
+*.DS_Store
+Thumbs.db
+
+# Informações de configuração
+appsettings.json
+*.config
+*.secrets.json
+
+# Pastas de pacotes
+.vs/
+packages/
+
+# Outros
+*.cachefile
+*.resharper.user
